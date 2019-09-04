@@ -1,0 +1,35 @@
+{
+  "name": "borisnedovis/delegation",
+
+  "description": "Delegation",
+
+  "keywords":["laravel","delegation"],
+
+  "license": "MIT",
+
+  "version": "1.0.0",
+
+  "authors": [
+    {
+
+      "name": "Boris Nedovis",
+
+      "email": "borisnedovis1@gmail.com"
+
+    }
+
+  ],
+  "minimum-stability": "stable",
+
+  "require": {},
+
+  "autoload": {
+
+    "psr-4": {
+
+      "BorisNedovis\\Delegation\\": "src/"
+
+    }
+
+  }
+}

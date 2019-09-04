@@ -1,2 +1,1 @@
-# delegation
-Delegation
+# Delegation
